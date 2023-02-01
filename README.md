@@ -2,6 +2,7 @@
 # MAC04592021  - Atividades
 <br />
 Atividades da disciplina IME_MAC0459_21 - 2° sem/21 - Ciência e Engenharia de dados  - IME/USP
+Professor Roberto Hirata Júnior
 <br />
 <br />
 
