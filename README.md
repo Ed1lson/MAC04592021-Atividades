@@ -17,3 +17,5 @@ opportunities and challenges toward responsible AI” by Arrieta et. al. (2020)
 * Ensaio  de revisão sobre o artigo “Misplaced Trust: Measuring the Interference of Machine Learning in Human
 Decision-Making ”por Suresh et. al.(2020)
 
+* Arvoré de decisão com dados do Iris Dataset
+
