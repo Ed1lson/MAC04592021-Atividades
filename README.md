@@ -19,3 +19,5 @@ Decision-Making ”por Suresh et. al.(2020)
 
 * Arvoré de decisão com dados do Iris Dataset
 
+*Exercícios de EDA no video game sales dataset
+
